@@ -1,0 +1,23 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure Js App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-poklad/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Oleksandr Poklad <aleksandr.poklad.ap@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-poklad/excel-js/issues"
+  },
+  "homepage": "https://github.com/a-poklad/excel-js#readme"
+}
